@@ -1,0 +1,24 @@
+# --- JAVA / SPRING BOOT IGNORES ---
+target/
+*.class
+.settings/
+.classpath
+.project
+.mvn/
+mvnw
+mvnw.cmd
+*.log
+.idea/
+*.iml
+
+# --- REACT / NODE IGNORES ---
+node_modules/
+build/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- OS JUNK ---
+.DS_Store
+Thumbs.db
